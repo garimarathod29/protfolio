@@ -195,7 +195,7 @@ const Hero = ({ onOpenResume }) => {
                 <img
                   src={profilePhoto}
                   alt={portfolioData.personal.name}
-                  className="w-full h-full object-cover object-center"
+                  className="w-full h-full object-cover object-top"
                 />
               </div>
 
